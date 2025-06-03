@@ -24,5 +24,11 @@ public class main{
         //     System.out.println(result.val);
         //     result = result.next;
         // }
+
+        //Problem 121: Best Time to Buy and Sell Stock
+        // Solution solution = new Solution();
+        // int[] prices = {7,1,5,3,6,4};
+        // int result = solution.maxProfit(prices);
+        // System.out.println(result);
     }
 }
