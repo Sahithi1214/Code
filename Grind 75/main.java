@@ -30,5 +30,11 @@ public class main{
         // int[] prices = {7,1,5,3,6,4};
         // int result = solution.maxProfit(prices);
         // System.out.println(result);
+
+        //Problem 125: Valid Palindrome
+        // Solution solution = new Solution();
+        // String s = "A man, a plan, a canal: Panama";
+        // boolean result = solution.isPalindrome(s);
+        // System.out.println(result);
     }
 }
