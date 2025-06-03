@@ -1,3 +1,5 @@
+
+
 public class main{
     public static void main(String[] args) {
         //Problem 1: Two Sum
@@ -12,5 +14,15 @@ public class main{
         // String s = "()";
         // boolean result = solution.isValid(s);
         // System.out.println(result);
+
+        //Problem 21: Merge Two Sorted Lists
+        // Solution solution = new Solution();
+        // ListNode l1 = new ListNode(1, new ListNode(2, new ListNode(4)));
+        // ListNode l2 = new ListNode(1, new ListNode(3, new ListNode(4)));
+        // ListNode result = solution.mergeTwoLists(l1, l2);
+        // while(result != null){
+        //     System.out.println(result.val);
+        //     result = result.next;
+        // }
     }
 }
