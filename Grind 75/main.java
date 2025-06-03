@@ -36,5 +36,11 @@ public class main{
         // String s = "A man, a plan, a canal: Panama";
         // boolean result = solution.isPalindrome(s);
         // System.out.println(result);
+
+        //Problem 226: Invert Binary Tree
+        // Solution solution = new Solution();
+        // TreeNode root = new TreeNode(4, new TreeNode(2, new TreeNode(1), new TreeNode(3)), new TreeNode(7, new TreeNode(6), new TreeNode(9)));
+        // TreeNode result = solution.invertTree(root);
+        // System.out.println(result.val);
     }
 }
