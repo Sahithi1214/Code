@@ -42,5 +42,12 @@ public class main{
         // TreeNode root = new TreeNode(4, new TreeNode(2, new TreeNode(1), new TreeNode(3)), new TreeNode(7, new TreeNode(6), new TreeNode(9)));
         // TreeNode result = solution.invertTree(root);
         // System.out.println(result.val);
+
+        //Problem 242: Valid Anagram
+        // Solution solution = new Solution();
+        // String s = "anagram";
+        // String t = "nagaram";
+        // boolean result = solution.isAnagram(s, t);
+        // System.out.println(result);
     }
 }
