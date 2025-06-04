@@ -49,5 +49,12 @@ public class main{
         // String t = "nagaram";
         // boolean result = solution.isAnagram(s, t);
         // System.out.println(result);
+
+        //Problem 704: Binary Search
+        // Solution solution = new Solution();
+        // int[] nums = {-1,0,3,5,9,12};
+        // int target = 9;
+        // int result = solution.search(nums, target);
+        // System.out.println(result);
     }
 }
