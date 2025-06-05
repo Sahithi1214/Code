@@ -79,5 +79,11 @@ public class main{
         // TreeNode root = new TreeNode(1, new TreeNode(2, new TreeNode(3), new TreeNode(4)), new TreeNode(2, new TreeNode(4), new TreeNode(3)));
         // boolean result = solution.isBalanced(root);
         // System.out.println(result);
+
+        //Problem 141: Linked List Cycle
+        // Solution solution = new Solution();
+        // ListNode head = new ListNode(1, new ListNode(2, new ListNode(3, new ListNode(4))));
+        // boolean result = solution.hasCycle(head);
+        // System.out.println(result);
     }
 }
