@@ -85,5 +85,13 @@ public class main{
         // ListNode head = new ListNode(1, new ListNode(2, new ListNode(3, new ListNode(4))));
         // boolean result = solution.hasCycle(head);
         // System.out.println(result);
+
+        //Problem 232: Implement Queue using Stacks
+        // MyQueue queue = new MyQueue();
+        // queue.push(1);
+        // queue.push(2);
+        // System.out.println(queue.peek());
+        // System.out.println(queue.pop());
+        // System.out.println(queue.empty());
     }
 }
