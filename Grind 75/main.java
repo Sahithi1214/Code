@@ -93,5 +93,11 @@ public class main{
         // System.out.println(queue.peek());
         // System.out.println(queue.pop());
         // System.out.println(queue.empty());
+
+        //Problem 278: First Bad Version
+        // Solution solution = new Solution();
+        // int n = 5;
+        // int result = solution.firstBadVersion(n);
+        // System.out.println(result);
     }
 }
