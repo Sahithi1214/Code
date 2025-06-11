@@ -99,5 +99,12 @@ public class main{
         // int n = 5;
         // int result = solution.firstBadVersion(n);
         // System.out.println(result);
+
+        //Problem 383: Ransom Note
+        // Solution solution = new Solution();
+        // String ransomNote = "a";
+        // String magazine = "b";
+        // boolean result = solution.canConstruct(ransomNote, magazine);
+        // System.out.println(result);
     }
 }
