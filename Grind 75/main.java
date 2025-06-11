@@ -106,5 +106,11 @@ public class main{
         // String magazine = "b";
         // boolean result = solution.canConstruct(ransomNote, magazine);
         // System.out.println(result);
+
+        //Problem 70: Climbing Stairs
+        // Solution solution = new Solution();
+        // int n = 2;
+        // int result = solution.climbStairs(n);
+        // System.out.println(result);
     }
 }
