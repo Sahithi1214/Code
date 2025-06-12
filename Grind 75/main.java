@@ -112,5 +112,11 @@ public class main{
         // int n = 2;
         // int result = solution.climbStairs(n);
         // System.out.println(result);
+
+        //Problem 409: Longest Palindrome
+        // Solution solution = new Solution();
+        // String s = "abccccdd";
+        // int result = solution.longestPalindrome(s);
+        // System.out.println(result);
     }
 }
