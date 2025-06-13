@@ -118,5 +118,14 @@ public class main{
         // String s = "abccccdd";
         // int result = solution.longestPalindrome(s);
         // System.out.println(result);
+
+        //Problem 206: Reverse Linked List
+        // Solution solution = new Solution();
+        // ListNode head = new ListNode(1, new ListNode(2, new ListNode(3, new ListNode(4))));
+        // ListNode result = solution.reverseList(head);
+        // while(result != null){
+        //     System.out.println(result.val);
+        //     result = result.next;
+        // }
     }
 }
