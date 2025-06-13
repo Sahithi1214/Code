@@ -127,5 +127,11 @@ public class main{
         //     System.out.println(result.val);
         //     result = result.next;
         // }
+
+        //Problem 169: Majority Element
+        Solution solution = new Solution();
+        int[] nums = {2,2,1,1,1,2,2};
+        int result = solution.majorityElement(nums);
+        System.out.println(result);
     }
 }
