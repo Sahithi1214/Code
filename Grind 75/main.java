@@ -139,5 +139,14 @@ public class main{
         // String s = "abca";
         // boolean result = solution.validPalindrome(s);
         // System.out.println(result);
+
+        //Problem 1570: Sparse Vector Dot Product
+        // Solution solution = new Solution();
+        // int[] nums1 = {1,0,0,2,3};
+        // int[] nums2 = {0,3,0,4,0};
+        // SparseVector v1 = new SparseVector(nums1);
+        // SparseVector v2 = new SparseVector(nums2);
+        // int result = v1.dotProduct(v2);
+        // System.out.println(result);
     }
 }
