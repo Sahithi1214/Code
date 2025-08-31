@@ -129,9 +129,15 @@ public class main{
         // }
 
         //Problem 169: Majority Element
-        Solution solution = new Solution();
-        int[] nums = {2,2,1,1,1,2,2};
-        int result = solution.majorityElement(nums);
-        System.out.println(result);
+        // Solution solution = new Solution();
+        // int[] nums = {2,2,1,1,1,2,2};
+        // int result = solution.majorityElement(nums);s
+        // System.out.println(result);
+
+        //Problem 680: Valid Palindrome II
+        // Solution solution = new Solution();
+        // String s = "abca";
+        // boolean result = solution.validPalindrome(s);
+        // System.out.println(result);
     }
 }
