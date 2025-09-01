@@ -156,5 +156,12 @@ public class main{
         // TreeNode q = new TreeNode(1);
         // TreeNode result = solution.lowestCommonAncestor(root, p, q);
         // System.out.println(result.val);
+
+        //Problem 408: Valid Word Abbreviation
+        // Solution solution = new Solution();
+        // String word = "internationalization";
+        // String abbr = "i12iz4n";
+        // boolean result = solution.validWordAbbreviation(word, abbr);
+        // System.out.println(result);
     }
 }
