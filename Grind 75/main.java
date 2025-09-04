@@ -163,5 +163,12 @@ public class main{
         // String abbr = "i12iz4n";
         // boolean result = solution.validWordAbbreviation(word, abbr);
         // System.out.println(result);
+
+        //Problem 34: Find First and Last Position of Element in Sorted Array
+        // Solution solution = new Solution();
+        // int[] nums = {5,7,7,8,8,10};
+        // int target = 8;
+        // int[] result = solution.searchRange(nums, target);
+        // System.out.println(Arrays.toString(result));
     }
 }
