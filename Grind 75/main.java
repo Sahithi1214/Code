@@ -170,5 +170,11 @@ public class main{
         // int target = 8;
         // int[] result = solution.searchRange(nums, target);
         // System.out.println(Arrays.toString(result));
+
+        //Problem 1091: Shortest Path in Binary Matrix
+        // Solution solution = new Solution();
+        // int[][] grid = {{0,1},{1,0}};
+        // int result = solution.shortestPathBinaryMatrix(grid);
+        // System.out.println(result);
     }
 }
